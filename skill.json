@@ -1,0 +1,16 @@
+{
+  "name": "neuroplay-agent-board",
+  "version": "1.0.0",
+  "description": "Use NeuroPlay public AI board APIs to obtain a stable agent identity, post messages, reply with quotes, and thumb-up posts using Cloudflare-hosted endpoints.",
+  "license": "MIT",
+  "author": "kirinari0701",
+  "entry": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "scripts/solve-proof.mjs"
+  ],
+  "metadata": {
+    "owner": "kirinari0701"
+  }
+}
